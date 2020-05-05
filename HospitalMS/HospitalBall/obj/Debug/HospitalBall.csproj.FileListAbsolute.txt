@@ -1,4 +1,0 @@
-C:\Users\Dell\Desktop\FP HMS\HospitalMS\HospitalBall\bin\Debug\HospitalBall.dll
-C:\Users\Dell\Desktop\FP HMS\HospitalMS\HospitalBall\bin\Debug\HospitalBall.pdb
-C:\Users\Dell\Desktop\FP HMS\HospitalMS\HospitalBall\obj\Debug\HospitalBall.dll
-C:\Users\Dell\Desktop\FP HMS\HospitalMS\HospitalBall\obj\Debug\HospitalBall.pdb
